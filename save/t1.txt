@@ -1,0 +1,8 @@
+STEP: 1111
+NAME: testF
+arm: 20
+PV: 500
+AD: 50
+CRIT: 10
+SPD: 15
+CLASS: 0

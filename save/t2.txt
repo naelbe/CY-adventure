@@ -1,0 +1,9 @@
+STEP: 71
+NAME: testF
+arm: 20
+PV: 500
+AD: 30
+CRIT: 10
+SPD: 7
+CLASS: 0
+CY ADVENTURE
